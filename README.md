@@ -1,1 +1,1 @@
-# node-webpack-template
+# drop-down-example
